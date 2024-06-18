@@ -41,9 +41,9 @@ h1 {
     padding: 12px 12px;
     color: white;
     border: 2px solid;
-    font-size: 1rem;
-    width: 80px;
-    margin-left: 10px;
+    font-size: 2rem;
+    width: 110px;
+    margin-left: 15px;
 }
  
 .col {
@@ -53,7 +53,7 @@ h1 {
 }
  
 .center-text {
-    font-size: 7rem;
+    font-size: 9rem;
     line-height: 1;
     align-items: center;
     font-weight: bold;
